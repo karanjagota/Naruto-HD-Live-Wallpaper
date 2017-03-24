@@ -1,6 +1,8 @@
 # Android Live WallPaper App 
+A simple mini project i developed on while learning the basics of Android.</br>
 As the name suggest this is a simple android live wallpaper app that displays a list of Naruto-HD-Images that are stored in an XML file. 
 The app will display one image at a time on screen and after every 5 seconds it will render another image.
+
 
 <b>Note:</b> Images are taken from google images. 
 
