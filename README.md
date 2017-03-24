@@ -15,7 +15,8 @@ The app will display one image at a time on screen and after every 5 seconds it 
 <td>
 <img src="https://cloud.githubusercontent.com/assets/7979139/24312629/716344de-10ff-11e7-8c52-4af4aa474a4a.png" width="320" height="480" />
 </td>
-</table></br></br>
+</table>
+
 <b> How the wallpaper look like :</b>  </br>
 <table> 
 <td>
